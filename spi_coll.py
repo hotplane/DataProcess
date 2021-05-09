@@ -7,11 +7,11 @@ from tkinter import filedialog
 
 
 
-def cut(old,start,end):
-    print(old[start:end])
-    tmp=old[start:end]
-    old=tmp
-    print(old)
+# def cut(old,start,end):
+#     print(old[start:end])
+#     tmp=old[start:end]
+#     old=tmp
+#     print(old)
     
 
 #设置目录选择
